@@ -1,7 +1,11 @@
 # 👩‍💻 Jou-Yi Lee (李柔儀)
 
-📍 San Jose, CA | ✉️ [zoelee19991226@gmail.com](mailto:zoelee19991226@gmail.com) | 📱 +1 408-618-9437  
-📄 [Resume (PDF)](./Jou_Yi_Lee_Resume.pdf) | 🌐 [Portfolio Website](https://zoelee23277789.github.io/my-portfolio) | [LinkedIn](https://www.linkedin.com/in/jou-yilee/)
+📍 San Jose, CA |
+ ✉️ [zoelee19991226@gmail.com](mailto:zoelee19991226@gmail.com) | 
+ 📱 +1 408-618-9437  
+📄 [Resume (PDF)](./Jou_Yi_Lee_Resume.pdf) | 
+🌐 [Portfolio Website](https://zoelee23277789.github.io/my-portfolio) | 
+[LinkedIn](https://www.linkedin.com/in/jou-yilee/)
 
 ---
 
@@ -58,10 +62,10 @@ In 2024, I published IEEE research combining Q-learning with YOLO for mobile rob
 
 ## 🎓 Education
 
-- **UC Berkeley — MAS in Engineering** (Fall 2025)  
+- **UC Berkeley — Master of Advanced Study in Engineering in Engineering** (Fall 2025)  
   _Focus: AI systems, robotics, intelligent automation_
 
-- **UC Santa Cruz — MS in NLP** (Sep 2024 – Present)  
+- **UC Santa Cruz — MS in Natural Language Processing** (Sep 2024 – Present)  
   _Focus: LLMs, NLP systems, multi-agent collaboration_
 
 - **Yuan Ze University** (Jul 2019 – Jun 2024)  
